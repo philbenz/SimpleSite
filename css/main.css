@@ -111,7 +111,7 @@ img.small {
   width:25%;
   float: left;
   margin: 1em 1em 1em 3em;
-  padding: .5em;
+  padding: .05em;
   background-color: #f1f1f1;
 }
 
@@ -132,7 +132,7 @@ footer.c_container {
 }
 
 footer.copyright_box {
-  box.sizing:border-box;
+  box-sizing:border-box;
   background-color: grey;
   font-size: 12px;
   float: left;
